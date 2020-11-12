@@ -1,6 +1,6 @@
 # ReactNative_NetworkCall_ReduxSaga
 
-This is centralized architecture using redux, How we can efficient way to structure React Native large scale projects to manage netowrk call and error handling.
+This is centralized architecture using redux, How we can efficient way to structure React Native large scale projects to manage network call and error handling.
 
 For the purpose of this post, I will use the following patterns and packages:
 
